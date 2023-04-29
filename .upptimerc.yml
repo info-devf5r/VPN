@@ -9,30 +9,42 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: Test live.devf5r.com
     url: https://live.devf5r.com
-  - name: Test Broken Site
+  - name: Test api.devf5r.com
     url: http://api.devf5r.com
-  - name: Test Broken Site
+  - name: Test nulled.to
     url: https://www.nulled.to
-  - name: Test Broken Site
+  - name: Test uk.vpn.devf5r.com
     url: http://uk.vpn.devf5r.com
-  - name: Test Broken Site
+  - name: Test tr.vpn.devf5r.com
     url: http://tr.vpn.devf5r.com
-  - name: Test Broken Site
+  - name: Test fr.vpn.devf5r.com
     url: http://fr.vpn.devf5r.com
-  - name: Test Broken Site
+  - name: Test devf5r.com
     url: https://devf5r.com
+  - name: Test chat.devf5r.com
+    url: https://chat.devf5r.com
+  - name: Test update.devf5r.com
+    url: https://update.devf5r.com
+  - name: Test kalam.devf5r.com
+    url: https://kalam.devf5r.com
+  - name: Test quotes.devf5r.com
+    url: https://quotes.devf5r.com
+  - name: Test up.devf5r.com
+    url: https://up.devf5r.com
+  - name: Test vpn.devf5r.com
+    url: https://vpn.devf5r.com
 
 status-website:
   # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
   # قم بإلغاء التعليق عن سطر "baseUrl" إذا لم يكن لديك مجال مخصص وأضف اسم الريبو الخاص بك هناك
-  #cname: demo.upptime.js.org
+  #cname: info-devf5r.github.io/VPN
   baseUrl: /VPN
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: VPN
+  introTitle: "**VPN** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://devf5r.com). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://devf5r.com)
   navbar:
     - title: Status
       href: /
