@@ -43,8 +43,8 @@ status-website:
   baseUrl: /VPN
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: VPN
-  introTitle: "**VPN** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://devf5r.com). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://devf5r.com)
+  introTitle: "** VPN ** هي صفحة الحالة ومراقبة وقت التشغيل مفتوحة المصدر ، وهي مدعومة بالكامل بواسطة GitHub."
+  introMessage: هذه نموذج لصفحة الحالة التي تستخدم بيانات ** في الوقت الفعلي ** من [مستودع GitHub] (https://devf5r.com). لا يلزم وجود خادم - فقط إجراءات GitHub والمشكلات والصفحات. [** احصل على ما لديك مجانًا **] (https://devf5r.com)
   navbar:
     - title: Status
       href: /
