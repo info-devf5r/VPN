@@ -16,7 +16,7 @@ status-website:
   # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
   # قم بإلغاء التعليق عن سطر "baseUrl" إذا لم يكن لديك مجال مخصص وأضف اسم الريبو الخاص بك هناك
   #cname: demo.upptime.js.org
-  baseUrl: /info-devf5r
+  baseUrl: /VPN
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
