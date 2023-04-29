@@ -10,7 +10,19 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://live.devf5r.com
+  - name: Test Broken Site
+    url: http://api.devf5r.com
+  - name: Test Broken Site
+    url: https://www.nulled.to
+  - name: Test Broken Site
+    url: http://uk.vpn.devf5r.com
+  - name: Test Broken Site
+    url: http://tr.vpn.devf5r.com
+  - name: Test Broken Site
+    url: http://fr.vpn.devf5r.com
+  - name: Test Broken Site
+    url: https://devf5r.com
 
 status-website:
   # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
