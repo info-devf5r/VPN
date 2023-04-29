@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.devf5r.com.ico",
     "slug": "test-live-devf5r-com",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 26
+      "2023-04-29": 52
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://www.nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/www.nulled.to.ico",
     "slug": "test-nulled-to",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 567,
-    "timeYear": 567,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 436,
+    "timeDay": 436,
+    "timeWeek": 436,
+    "timeMonth": 436,
+    "timeYear": 436,
+    "dailyMinutesDown": {
+      "2023-04-29": 1
+    }
   },
   {
     "name": "Test uk.vpn.devf5r.com",
@@ -115,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uk.vpn.devf5r.com.ico",
     "slug": "test-uk-vpn-devf5r-com",
     "status": "down",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 25
+      "2023-04-29": 51
     }
   },
   {
@@ -135,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tr.vpn.devf5r.com.ico",
     "slug": "test-tr-vpn-devf5r-com",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 25
+      "2023-04-29": 51
     }
   },
   {
@@ -155,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fr.vpn.devf5r.com.ico",
     "slug": "test-fr-vpn-devf5r-com",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 25
+      "2023-04-29": 51
     }
   },
   {
