@@ -1,6 +1,6 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# قم بتغيير هذه أولاً
+owner: info-devf5r # اسم مستخدم GitHub الخاص بك ، حيث يوجد هذا المستودع
+repo: VPN # اسم هذا المستودع
 
 sites:
   - name: Google
@@ -13,10 +13,10 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
+  # قم بإلغاء التعليق عن سطر "baseUrl" إذا لم يكن لديك مجال مخصص وأضف اسم الريبو الخاص بك هناك
+  #cname: demo.upptime.js.org
+  baseUrl: /info-devf5r
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -27,5 +27,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
+# يدعم Upptime أيضًا الإشعارات وتعيين المشكلات والمزيد
 # See https://upptime.js.org/docs/configuration
