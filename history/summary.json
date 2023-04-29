@@ -60,7 +60,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,9 +69,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -80,7 +78,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,9 +87,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -100,7 +96,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,9 +105,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -120,7 +114,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,9 +123,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -140,7 +132,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,9 +141,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -160,7 +150,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,9 +159,7 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -180,7 +168,7 @@
     "slug": "test-broken-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,8 +177,6 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {
-      "2023-04-29": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
