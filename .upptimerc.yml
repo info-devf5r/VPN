@@ -9,31 +9,31 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test live.devf5r.com
+  - name: موقع فخر لايف
     url: https://live.devf5r.com
-  - name: Test api.devf5r.com
+  - name: موقع فخر اي بي اي
     url: http://api.devf5r.com
-  - name: Test nulled.to
+  - name: موقع تجريبي
     url: https://www.nulled.to
-  - name: Test uk.vpn.devf5r.com
+  - name: سيرفر نت بريطاني
     url: http://uk.vpn.devf5r.com
-  - name: Test tr.vpn.devf5r.com
+  - name: سيرفر نت تركي
     url: http://tr.vpn.devf5r.com
-  - name: Test fr.vpn.devf5r.com
+  - name: سيرفر نت فرنسي
     url: http://fr.vpn.devf5r.com
-  - name: Test devf5r.com
+  - name: الموقع الرسمي
     url: https://devf5r.com
-  - name: Test chat.devf5r.com
+  - name: موقع دردشة فخر
     url: https://chat.devf5r.com
-  - name: Test update.devf5r.com
+  - name: تحديث الواتس اب
     url: https://update.devf5r.com
-  - name: Test kalam.devf5r.com
+  - name: بعثرة كلام
     url: https://kalam.devf5r.com
-  - name: Test quotes.devf5r.com
+  - name: بوح المشاعر
     url: https://quotes.devf5r.com
-  - name: Test up.devf5r.com
+  - name: رفع الملفات
     url: https://up.devf5r.com
-  - name: Test vpn.devf5r.com
+  - name: موقع في بي ان
     url: https://vpn.devf5r.com
 
 status-website:
