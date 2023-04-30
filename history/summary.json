@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 778,
+      "2023-04-30": 798,
       "2023-04-29": 81
     }
   },
@@ -97,19 +97,19 @@
     "url": "https://www.nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/www.nulled.to.ico",
     "slug": "mwqe-tjryby",
-    "status": "up",
-    "uptime": "90.36%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "90.36%",
-    "uptimeMonth": "90.36%",
-    "uptimeYear": "90.36%",
-    "time": 518,
-    "timeDay": 518,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "down",
+    "uptime": "92.17%",
+    "uptimeDay": "92.17%",
+    "uptimeWeek": "92.17%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "92.17%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2023-04-30": 68,
+      "2023-04-30": 54,
       "2023-04-29": 16
     }
   },
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 778,
+      "2023-04-30": 798,
       "2023-04-29": 81
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 778,
+      "2023-04-30": 798,
       "2023-04-29": 81
     }
   },
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 778,
+      "2023-04-30": 798,
       "2023-04-29": 81
     }
   },
