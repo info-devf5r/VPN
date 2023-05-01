@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 67,
+      "2023-05-01": 559,
       "2023-04-30": 1440,
       "2023-04-29": 81
     }
@@ -98,18 +98,19 @@
     "url": "https://www.nulled.to",
     "icon": "https://icons.duckduckgo.com/ip3/www.nulled.to.ico",
     "slug": "mwqe-tjryby",
-    "status": "up",
-    "uptime": "81.52%",
-    "uptimeDay": "80.70%",
-    "uptimeWeek": "81.52%",
-    "uptimeMonth": "81.52%",
-    "uptimeYear": "81.52%",
-    "time": 505,
-    "timeDay": 468,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "status": "down",
+    "uptime": "85.87%",
+    "uptimeDay": "82.37%",
+    "uptimeWeek": "85.87%",
+    "uptimeMonth": "85.87%",
+    "uptimeYear": "85.87%",
+    "time": 489,
+    "timeDay": 443,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
+      "2023-05-01": 1,
       "2023-04-30": 278,
       "2023-04-29": 16
     }
@@ -120,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uk.vpn.devf5r.com.ico",
     "slug": "syrfr-nt-brytany",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 67,
+      "2023-05-01": 559,
       "2023-04-30": 1440,
       "2023-04-29": 81
     }
@@ -153,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 67,
+      "2023-05-01": 559,
       "2023-04-30": 1440,
       "2023-04-29": 81
     }
@@ -175,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-01": 67,
+      "2023-05-01": 559,
       "2023-04-30": 1440,
       "2023-04-29": 81
     }
