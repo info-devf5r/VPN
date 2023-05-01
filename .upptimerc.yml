@@ -3,26 +3,20 @@ owner: info-devf5r # اسم مستخدم GitHub الخاص بك ، حيث يوج
 repo: VPN # اسم هذا المستودع
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: موقع فخر لايف
-    url: https://live.devf5r.com
-  - name: موقع فخر اي بي اي
-    url: http://api.devf5r.com
-  - name: موقع تجريبي
-    url: https://www.nulled.to
-  - name: سيرفر نت بريطاني
-    url: http://uk.vpn.devf5r.com
-  - name: سيرفر نت تركي
-    url: http://tr.vpn.devf5r.com
-  - name: سيرفر نت فرنسي
-    url: http://fr.vpn.devf5r.com
   - name: الموقع الرسمي
     url: https://devf5r.com
+  - name: موقع بديل
+    url: https://almgro7al3nzy.com
+  - name: موقع فخر اي بي اي
+    url: http://api.devf5r.com
+  - name: تيك توك
+    url: https://vt.tiktok.com/ZS8w6nu9M
+  - name: 🇳🇱 هـولـنـدا سيرفر نت
+    url: http://lu.howdyvpn.com
+  - name: تركيا سيرفر نت 🇹🇷
+    url: http://tr.vpn.devf5r.com
+  - name: فرنسا سيرفر نت 🇨🇵
+    url: http://fr.vpn.devf5r.com
   - name: موقع دردشة فخر
     url: https://chat.devf5r.com
   - name: تحديث الواتس اب
