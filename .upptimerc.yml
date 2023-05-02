@@ -1,47 +1,43 @@
-# قم بتغيير هذه أولاً
-owner: info-devf5r # اسم مستخدم GitHub الخاص بك ، حيث يوجد هذا المستودع
-repo: VPN # اسم هذا المستودع
+owner: info-devf5r
+repo: VPN
 
 sites:
-  - name: الموقع الرسمي
+  - name: Official Website
     url: https://devf5r.com
-  - name: موقع بديل
+  - name: alternative site
     url: https://almgro7al3nzy.com
-  - name: موقع فخر اي بي اي
+  - name: API Website
     url: http://api.devf5r.com
-  - name: تيك توك
+  - name: Tik Tok
     url: https://vt.tiktok.com/ZS8w6nu9M
-  - name: موقع دردشة فخر
+  - name: CHAT Website
     url: https://chat.devf5r.com
-  - name: تحديث الواتس اب
+  - name: WhatsApp update
     url: https://update.devf5r.com
-  - name: بعثرة كلام
+  - name: slurred speech
     url: https://kalam.devf5r.com
-  - name: بوح المشاعر
+  - name: The spirit of feelings
     url: https://quotes.devf5r.com
-  - name: رفع الملفات
+  - name: upload files
     url: https://up.devf5r.com
     
-  - name: موقع سيرفر نت خاص 🇪🇺
+  - name: Private server net site 🇪🇺
     url: https://vpn.devf5r.com
-  - name: 🇳🇱 هـولـنـدا سيرفر نت
+  - name: 🇳🇱 Netherlands Server Net
     url: http://nl.vpn.devf5r.com
-  - name: 🇳🇱 2هـولـنـدا سيرفر نت
+  - name: 🇳🇱 2 Netherlands Server Net
     url: http://nlt-1.vpn.devf5r.com
-  - name: تركيا سيرفر نت 🇹🇷
+  - name: Türkiye Server Net 🇹🇷
     url: http://tr.vpn.devf5r.com
-  - name: فرنسا سيرفر نت 🇨🇵
+  - name: France Server Net 🇨🇵
     url: http://fr.vpn.devf5r.com
-  - name: 🇳🇱 لوكسنبورغ سيرفر نت
+  - name: 🇳🇱 Luxenburg Server Net
     url: http://lu.vpn.devf5r.com
-  - name: المانيا سيرفر نت 🇩🇪
+  - name: Germany Server Net 🇩🇪
     url: http://de-1.vpn.devf5r.com
     
     
 status-website:
-  # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
-  # قم بإلغاء التعليق عن سطر "baseUrl" إذا لم يكن لديك مجال مخصص وأضف اسم الريبو الخاص بك هناك
-  #cname: info-devf5r.github.io/VPN
   baseUrl: /VPN
   logoUrl: http://assets.devf5r.com/LOGO-AK.png
   name: VPN Pro
