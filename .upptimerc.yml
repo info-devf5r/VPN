@@ -48,12 +48,14 @@ status-website:
   introTitle: "** VPN ** هي صفحة الحالة ومراقبة وقت التشغيل مفتوحة المصدر ، وهي مدعومة بالكامل بواسطة"
   introMessage: هذه نموذج لصفحة الفعلي ** من . لا يلزم وجود خادم - فقط إجراءات  والمشكلات والصفحات. [****] (https://devf5r.com)
   navbar:
-    - title: Status
+    - title: Home
       href: https://info-devf5r.github.io/VPN
     - title: Dev F5R
       href: https://devf5r.com
     - title: AKWT
       href: https://up.devf5r.com
-      
-# يدعم Upptime أيضًا الإشعارات وتعيين المشكلات والمزيد
-# See https://devf5r.com/docs/configuration
+
+
+
+
+
