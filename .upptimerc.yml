@@ -11,12 +11,6 @@ sites:
     url: http://api.devf5r.com
   - name: تيك توك
     url: https://vt.tiktok.com/ZS8w6nu9M
-  - name: 🇳🇱 هـولـنـدا سيرفر نت
-    url: http://lu.howdyvpn.com
-  - name: تركيا سيرفر نت 🇹🇷
-    url: http://tr.vpn.devf5r.com
-  - name: فرنسا سيرفر نت 🇨🇵
-    url: http://fr.vpn.devf5r.com
   - name: موقع دردشة فخر
     url: https://chat.devf5r.com
   - name: تحديث الواتس اب
@@ -27,9 +21,23 @@ sites:
     url: https://quotes.devf5r.com
   - name: رفع الملفات
     url: https://up.devf5r.com
-  - name: موقع في بي ان
+    
+  - name: موقع سيرفر نت خاص 🇪🇺
     url: https://vpn.devf5r.com
-
+  - name: 🇳🇱 هـولـنـدا سيرفر نت
+    url: http://nl.vpn.devf5r.com
+  - name: 🇳🇱 2هـولـنـدا سيرفر نت
+    url: http://nlt-1.vpn.devf5r.com
+  - name: تركيا سيرفر نت 🇹🇷
+    url: http://tr.vpn.devf5r.com
+  - name: فرنسا سيرفر نت 🇨🇵
+    url: http://fr.vpn.devf5r.com
+  - name: 🇳🇱 لوكسنبورغ سيرفر نت
+    url: http://lu.vpn.devf5r.com
+  - name: المانيا سيرفر نت 🇩🇪
+    url: http://de-1.vpn.devf5r.com
+    
+    
 status-website:
   # أضف اسم المجال المخصص الخاص بك ، أو قم بإزالة سطر `cname` إذا لم يكن لديك مجال
   # قم بإلغاء التعليق عن سطر "baseUrl" إذا لم يكن لديك مجال مخصص وأضف اسم الريبو الخاص بك هناك
