@@ -38,7 +38,7 @@ sites:
   - name: سيرفر بريطانيا VPS 2
     url: ukt-2.vpn.devf5r.com
   - name: سيرفر بريطانيا VPS 2
-    url: ukt-1.vpn.devf5r.com
+    url: 38.48.123.89
     
 status-website:
   baseUrl: /VPN
