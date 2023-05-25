@@ -23,19 +23,22 @@ sites:
     
   - name: Private server net site 🇪🇺
     url: https://vpn.devf5r.com
-  - name: 🇳🇱 Netherlands Server Net
-    url: http://nl.vpn.devf5r.com
-  - name: 🇳🇱 2 Netherlands Server Net
-    url: http://nlt-1.vpn.devf5r.com
-  - name: Türkiye Server Net 🇹🇷
-    url: http://tr.vpn.devf5r.com
-  - name: France Server Net 🇨🇵
-    url: http://fr.vpn.devf5r.com
-  - name: 🇳🇱 Luxenburg Server Net
-    url: http://lu.vpn.devf5r.com
-  - name: Germany Server Net 🇩🇪
-    url: http://de-1.vpn.devf5r.com
-    
+  - name: سيرفر بريطانيا هويدي
+    url: uk.vpn.devf5r.com
+  - name: سيرفر تركيا هويدي
+    url: tr.vpn.devf5r.com
+  - name: سيرفر فرنسا هويدي
+    url: fr.vpn.devf5r.com
+  - name: سيرفر هولندا VPS
+    url: nlt-1.vpn.devf5r.com
+  - name: سيرفر المانيا  هويدي
+    url: de-1.vpn.devf5r.com
+  - name: سيرفر المانيا VPS
+    url: det-1.vpn.devf5r.com
+  - name: سيرفر بريطانيا VPS 2
+    url: ukt-2.vpn.devf5r.com
+  - name: سيرفر بريطانيا VPS 2
+    url: ukt-1.vpn.devf5r.com
     
 status-website:
   baseUrl: /VPN
@@ -52,6 +55,8 @@ status-website:
       href: https://up.devf5r.com
     - title: CHAT
       href: https://chat.devf5r.com
+    - title: VPN
+      href: https://vpn.devf5r.com
 
 
 
