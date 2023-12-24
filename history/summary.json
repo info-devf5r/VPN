@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/devf5r.com.ico",
     "slug": "official-website",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "86.01%",
-    "uptimeYear": "97.52%",
+    "uptimeYear": "97.53%",
     "time": 522,
     "timeDay": 432,
     "timeWeek": 413,
@@ -37,15 +37,15 @@
     "url": "https://almgro7al3nzy.com",
     "icon": "https://icons.duckduckgo.com/ip3/almgro7al3nzy.com.ico",
     "slug": "alternative-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "50.25%",
-    "uptimeWeek": "63.09%",
-    "uptimeMonth": "91.51%",
+    "uptimeDay": "51.57%",
+    "uptimeWeek": "63.28%",
+    "uptimeMonth": "91.55%",
     "uptimeYear": "98.91%",
     "time": 394,
     "timeDay": 332,
-    "timeWeek": 378,
+    "timeWeek": 380,
     "timeMonth": 413,
     "timeYear": 394,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
       "2023-12-21": 807,
       "2023-12-20": 397,
       "2023-12-19": 643,
-      "2023-12-18": 408
+      "2023-12-18": 388
     }
   },
   {
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -559,7 +559,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -792,7 +792,7 @@
     "timeMonth": 0,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1025,7 +1025,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1258,7 +1258,7 @@
     "timeMonth": 0,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1491,7 +1491,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1724,7 +1724,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -1957,7 +1957,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-24": 174,
+      "2023-12-24": 216,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
